@@ -1,0 +1,11 @@
+
+path: ../Dataset  
+train: images  
+val: images
+
+# Classes
+names:
+  0: Healthy
+  1: Bacterial Pustule
+  2: Phytopthora Root and Stem Rot
+  3: Frogeye Leaf Spot 
